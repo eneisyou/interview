@@ -1,0 +1,15 @@
+table {
+  display: block;
+  overflow-x: auto !important;
+  white-space: nowrap !important;
+}
+
+sp {
+  color: #FFFFFF;
+  background-color: #37674c;
+}
+
+ex {
+  color: #000000;
+  background-color: #eecb3e;
+}
